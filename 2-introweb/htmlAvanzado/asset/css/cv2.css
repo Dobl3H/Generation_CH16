@@ -1,0 +1,23 @@
+*{
+    font-size: 1rem;
+}
+header{
+    background-color: rgb(228, 237, 245);
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: 200px;
+}
+
+main{
+    display: flow-root;
+    background-color: cadetblue;
+    width: auto;
+    height: 600px;
+}
+
+footer{
+    background-color: rgb(91, 39, 143);
+    width: auto;
+    height: 150px;
+}
