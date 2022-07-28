@@ -1,0 +1,79 @@
+.cuadro-padre{
+    background-color: rgb(253, 206, 189);
+    height: 600px;
+
+    display: flex;
+
+    flex-direction: row;
+
+    /* Nos permite alinear en vertical */
+    /* Recuerden a word */
+    justify-content: space-between;
+
+    /* Nos permite alinear en vertical */
+    align-items: center;
+
+}
+.cuadro {
+    background-color: aqua;
+    height:  100px;
+    width: 100px;
+    padding: 50px 40px 30px 20px;
+    margin: 20px 40px;
+    border: 10px solid yellow;
+    border-radius: 10px 20px 30px 40px;
+}
+
+.el-1{
+    background-color: blue;
+    align-self: flex-start;
+    flex-grow: 20;
+}
+
+.el-2{
+    background-color: red;   
+    flex-grow: 1; 
+}
+
+.el-3{
+    background-color: pink;
+    align-self: flex-end;
+    flex-grow: 1;
+}
+
+.el-4{
+    background-color: green;
+    flex-grow: 10;
+}
+
+/* .el-5{
+    background-color: darkmagenta;
+    flex-grow: 1;
+} */
+
+.contenedor{
+
+    height: 200px;
+
+    /* Color favorito de Raquel */
+    background-color: #80cccc;
+
+    max-width: 1500px;
+
+    margin: 0 auto;
+
+}
+
+.fila{
+    display: flex;
+}
+
+.columna{
+    flex-grow: 1;
+}
+
+.color-rojo{
+    background-color: red;
+}
+
+
