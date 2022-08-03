@@ -36,7 +36,7 @@ function division(a, b) {
 function nombreCompleto(a, b, c) {
         console.log("mi nombre es: " + (a + b + c));
   }
-  nombreCompleto ("Eduardo", "Hernandez", "Hernandez")
+  nombreCompleto ("Eduardo ", "Hernandez ", "Hernandez")
 
   
 
