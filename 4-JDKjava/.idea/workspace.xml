@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="007ef1a7-8e39-4055-b357-9ea01da65f96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/variables/src/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/variables/src/OperadoresAsignacion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2-introweb/pagina-bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2-introweb/pagina-bootstrap/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colecciones/src/Colecciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colecciones/src/Colecciones2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionales-bucles/src/Arreglos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionales-bucles/src/Ejercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condicionales-bucles/out/production/condicionales-bucles/Bucles.class" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales-bucles/out/production/condicionales-bucles/Bucles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condicionales-bucles/src/Bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionales-bucles/src/Bucles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
