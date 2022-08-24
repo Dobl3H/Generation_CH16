@@ -1,12 +1,18 @@
 public class EjemploSaludo {
     public static void main(String[] args) {
-        Saludo objSaludos;//Declarar el objeto
-        objSaludos = new Saludo();//Crear el objeto con new
-        objSaludos.saludar();//Llamando al objeto
+        Saludo objSaludo;//Declarar el objeto
+        objSaludo = new Saludo();//Crear el objeto con new
+        objSaludo.saludar();//Llamando al objeto
 
         Saludo objSaludo0 = new Saludo();
 
-        System.out.println(objSaludos.saludar0());
+        System.out.println(objSaludo.saludar0());
         System.out.println("Este es otro objeto: -> " + objSaludo0.saludar0());
+        objSaludo.textoS = "Hola";
+
+        System.out.println("objSaludo = " + objSaludo);
+
+        objSaludo0.a = 4;
+        System.out.println("objSaludo0 = " + objSaludo0);
     }
 }

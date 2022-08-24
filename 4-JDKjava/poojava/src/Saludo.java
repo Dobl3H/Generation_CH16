@@ -1,9 +1,12 @@
 public class Saludo {
-    void saludar (){
+    String textoS = "Hola Mundo Java opp";
+
+    int a = 3;
+    void saludar(){
         System.out.println("Hola Java OOP");
     }
     String saludar0(){
-        String textoS = "Hola Mundo Java oop";
+
         return textoS;
     }
 }
