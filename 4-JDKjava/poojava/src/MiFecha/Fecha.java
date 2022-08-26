@@ -9,6 +9,10 @@ public class Fecha {
         this.dia = dia;
     }
 
+    Fecha(){
+
+    }
+
     public void setMes(int mes) {
         this.mes = mes;
     }
