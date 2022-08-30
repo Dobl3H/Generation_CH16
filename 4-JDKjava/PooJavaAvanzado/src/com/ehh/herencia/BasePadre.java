@@ -1,7 +1,7 @@
 package com.ehh.herencia;
 
 public class BasePadre {
-        protected int a;
+        private int a;
         private double b;
         private String c;
 
