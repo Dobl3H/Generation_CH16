@@ -35,5 +35,5 @@ VALUES (1, '2022-09-06', 300.50, 2);
 
 SELECT * FROM compra;
 
-DROP TABLE compra;
+-- DROP TABLE compra;
 
